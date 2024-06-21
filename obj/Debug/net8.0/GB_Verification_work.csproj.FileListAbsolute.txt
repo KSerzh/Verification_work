@@ -1,0 +1,14 @@
+C:\GB_Verification_work\bin\Debug\net8.0\GB_Verification_work.exe
+C:\GB_Verification_work\bin\Debug\net8.0\GB_Verification_work.deps.json
+C:\GB_Verification_work\bin\Debug\net8.0\GB_Verification_work.runtimeconfig.json
+C:\GB_Verification_work\bin\Debug\net8.0\GB_Verification_work.dll
+C:\GB_Verification_work\bin\Debug\net8.0\GB_Verification_work.pdb
+C:\GB_Verification_work\obj\Debug\net8.0\GB_Verification_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB_Verification_work\obj\Debug\net8.0\GB_Verification_work.AssemblyInfoInputs.cache
+C:\GB_Verification_work\obj\Debug\net8.0\GB_Verification_work.AssemblyInfo.cs
+C:\GB_Verification_work\obj\Debug\net8.0\GB_Verification_work.csproj.CoreCompileInputs.cache
+C:\GB_Verification_work\obj\Debug\net8.0\GB_Verification_work.dll
+C:\GB_Verification_work\obj\Debug\net8.0\refint\GB_Verification_work.dll
+C:\GB_Verification_work\obj\Debug\net8.0\GB_Verification_work.pdb
+C:\GB_Verification_work\obj\Debug\net8.0\GB_Verification_work.genruntimeconfig.cache
+C:\GB_Verification_work\obj\Debug\net8.0\ref\GB_Verification_work.dll
