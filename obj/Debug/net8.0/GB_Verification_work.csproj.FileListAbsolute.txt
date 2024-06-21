@@ -12,3 +12,4 @@ C:\GB_Verification_work\obj\Debug\net8.0\refint\GB_Verification_work.dll
 C:\GB_Verification_work\obj\Debug\net8.0\GB_Verification_work.pdb
 C:\GB_Verification_work\obj\Debug\net8.0\GB_Verification_work.genruntimeconfig.cache
 C:\GB_Verification_work\obj\Debug\net8.0\ref\GB_Verification_work.dll
+C:\GB_Verification_work\obj\Debug\net8.0\GB_Verification_work.sourcelink.json
