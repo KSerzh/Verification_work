@@ -18,3 +18,49 @@
 [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 [“Russia”, “Denmark”, “Kazan”] → []
 
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        // Входной массив строк
+        string[] inputArray = { "Hello", "2", "world", ":-)" };
+
+        // Создаем новый массив для хранения отфильтрованных строк
+        string[] filteredArray = new string[inputArray.Length];
+        int count = 0;
+
+        // Фильтруем строки по длине
+        foreach (var item in inputArray)
+        {
+            if (item.Length <= 3)
+            {
+                filteredArray[count] = item;
+                count++;
+            }
+        }
+
+        // Выводим результат
+        Console.WriteLine("Результат:");
+        for (int i = 0; i < count; i++)
+        {
+            Console.WriteLine(filteredArray[i]);
+        }
+    }
+}
+
+using System;:                    - Эта строка подключает пространство имен System, которое содержит базовые классы и структуры, такие как Console.
+class Program:                    - Объявление класса с именем Program.
+static void Main(): - Это точка входа в программу. Метод Main выполняется при запуске программы.
+string[] inputArray = { "Hello", "2", "world", ":-)" };: - Создание массива строк inputArray с начальными значениями.
+string[] filteredArray = new string[inputArray.Length];: - Создание нового массива filteredArray для хранения отфильтрованных строк. Его размер равен размеру inputArray.
+int count = 0;:                   - Инициализация счетчика элементов в filteredArray.
+foreach (var item in inputArray): - Цикл foreach, который перебирает элементы в inputArray.
+if (item.Length <= 3):            - Проверка, что длина строки item меньше или равна 3 символам.
+filteredArray[count] = item;:     - Если условие выполняется, добавляем строку item в filteredArray.
+count++;:                         - Увеличиваем счетчик элементов в filteredArray.
+Console.WriteLine("Результат:");: - Выводит строку “Результат:” на консоль.
+for (int i = 0; i < count; i++):  - Цикл for, который перебирает элементы в filteredArray.
+Console.WriteLine(filteredArray[i]);: - Выводит каждый элемент filteredArray[i] на консоль.
+Этот код создает новый массив, содержащий только строки из inputArray, длина которых меньше или равна 3 символам.
