@@ -28,8 +28,8 @@ class Program
         Console.WriteLine("Результат:");
         for (int i = 0; i < count; i++)
         {
-            Console.WriteLine(filteredArray[i]);
-            Console.WriteLine(filteredArray[i]);
+            Console.Write(filteredArray[i]);
+            
         }
     }
 }
