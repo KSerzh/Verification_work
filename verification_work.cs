@@ -21,15 +21,15 @@ class Program
             }
         }
 
-        
+
 
         // Выводим результат
-        
+
         Console.WriteLine("Результат:");
         for (int i = 0; i < count; i++)
         {
             Console.Write(filteredArray[i]);
-            
+
         }
     }
 }
